@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amit Kulkarni</h1>
 <h3 align="center">A Passionate Full Stack Developer</h3>
+<img align="right" width="80" src="https://github.githubassets.com/assets/mona-loading-default-c3c7aad1282f.gif">
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
